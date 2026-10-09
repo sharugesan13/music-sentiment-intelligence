@@ -1,5 +1,5 @@
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://music-sentiment-intelligence-yekzf7eg2xcfjufbwfbvgq.streamlit.app)\
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://music-sentiment-intelligence-yekzf7eg2xcfjufbwfbvgq.streamlit.app)
 
 # Music & Lyric Sentiment Intelligence Engine
 
