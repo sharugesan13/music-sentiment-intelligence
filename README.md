@@ -1,6 +1,6 @@
-sed -i '' '2i\
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://music-sentiment-intelligence-yekzf7eg2xcfjufbwfbvgq.streamlit.app)\
-' README.md
+
 # Music & Lyric Sentiment Intelligence Engine
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
