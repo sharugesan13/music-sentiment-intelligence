@@ -1,4 +1,4 @@
-https://music-sentiment-intelligence-yekzf7eg2xcfjufbwfbvgq.streamlit.app
+[![Streamlit App](https://music-sentiment-intelligence-yekzf7eg2xcfjufbwfbvgq.streamlit.app)
 # Music & Lyric Sentiment Intelligence Engine
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
